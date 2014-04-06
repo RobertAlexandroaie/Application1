@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Application1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="username">Username:</string>
+    <string name="password">Parola:</string>
+    <string name="bank">Bank name:</string>
+    <string-array name="banks">
+        <item >banca1</item>
+        <item >banca2</item>
+        <item >banca3</item>
+    </string-array>
+
+</resources>
